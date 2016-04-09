@@ -1,0 +1,52 @@
+_repo: The-Thousand-and-One-Nights-Vol-I-Commonly-Called-the-Arabian-Nights-Entertainments_34206
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lane-Poole, Stanley
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '25154'
+    url: http://www.gutenberg.org/2009/agents/25154
+  illustrator:
+    agent_name: Harvey, William
+    birthdate: 1796
+    deathdate: 1866
+    gutenberg_agent_id: '25917'
+    url: http://www.gutenberg.org/2009/agents/25917
+  translator:
+    agent_name: Lane, Edward William
+    alias: Lane, E. W. (Edward William)
+    birthdate: 1801
+    deathdate: 1876
+    gutenberg_agent_id: '36870'
+    url: http://www.gutenberg.org/2009/agents/36870
+covers:
+- cover_type: archival
+  image_path: 34206/34206-h/images/title.png
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  editor:
+    agent_name: Poole, Edward Stanley
+    birthdate: 1830
+    deathdate: 1867
+    gutenberg_agent_id: '36869'
+    url: http://www.gutenberg.org/2009/agents/36869
+description: ''
+gutenberg_issued: '2010-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Arab countries'
+- GITenberg
+title: 'The Thousand and One Nights, Vol. I.
+
+  Commonly Called the Arabian Nights'' Entertainments'
+url: http://www.gutenberg.org/ebooks/34206
