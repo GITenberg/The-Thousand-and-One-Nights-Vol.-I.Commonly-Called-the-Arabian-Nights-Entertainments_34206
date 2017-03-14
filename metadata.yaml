@@ -1,5 +1,5 @@
 _repo: The-Thousand-and-One-Nights-Vol.-I.Commonly-Called-the-Arabian-Nights-Entertainments_34206
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lane-Poole, Stanley
@@ -21,10 +21,8 @@ contributor:
     gutenberg_agent_id: '36870'
     url: http://www.gutenberg.org/2009/agents/36870
 covers:
-- cover_type: archival
-  image_path: 34206/34206-h/images/title.png
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Poole, Edward Stanley
@@ -33,6 +31,8 @@ creator:
     gutenberg_agent_id: '36869'
     url: http://www.gutenberg.org/2009/agents/36869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34206#The-Thousand-and-One-Nights-Vol.-I.Commonly-Called-the-Arabian-Nights-Entertainments
 gutenberg_issued: '2010-11-03'
 gutenberg_type: Text
 identifiers:
